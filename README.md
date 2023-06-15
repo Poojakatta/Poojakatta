@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poojakatta
 - 👀 I’m interested in developing web applications using Python
-- 🌱 I’m currently learning Flask, a python framework
+- 🌱 I’m currently learning various Python frameworks
 - 💞️ I’m looking to collaborate on any project that enchance my knowledge on Python
 - 📫 How to reach me www.linkedin.com/in/PoojithaKatta
 <!---
